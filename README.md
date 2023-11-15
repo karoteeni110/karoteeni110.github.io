@@ -16,3 +16,9 @@ bundle add webrick
 ```
 make serve
 ```
+
+## Example Splash page
+
+https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout
+
+https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_pages/splash-page.md?plain=1 
